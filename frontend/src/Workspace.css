@@ -1,0 +1,35 @@
+.sidebar {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .component-list {
+    margin-top: 15px;
+  }
+  
+  .component-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .workspace {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-height: 400px;
+    background-color: #f8f9fa;
+  }
+  
+  .workspace-over {
+    background-color: #e9ecef;
+  }
+  
+  .component {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
